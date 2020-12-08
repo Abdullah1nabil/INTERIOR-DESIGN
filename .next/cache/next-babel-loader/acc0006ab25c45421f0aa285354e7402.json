@@ -1,0 +1,1 @@
+{"ast":null,"code":"const Home = () => {\n  return;\n};","map":{"version":3,"sources":["/Users/abdullahnbail/Desktop/task5/pages/index.js"],"names":["Home"],"mappings":"AAAA,MAAMA,IAAI,GAAG,MAAM;AACjB;AACD,CAFD","sourcesContent":["const Home = () => {\n  return;\n};\n"]},"metadata":{},"sourceType":"script"}

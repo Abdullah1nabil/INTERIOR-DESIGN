@@ -1,0 +1,42 @@
+header {
+  width: 100%;
+  height: 10vh;
+
+  .content {
+    display: flex;
+    position: relative;
+    padding-top: 30px;
+
+    .right p {
+      float: right;
+      right: 0px;
+      position: absolute;
+      font-weight: 300;
+      cursor: pointer;
+    }
+    h1 {
+      font-size: 18px;
+      font-weight: bolder;
+      text-transform: uppercase;
+      cursor: default;
+    }
+    ul {
+      display: flex;
+      margin-left: 20px;
+      cursor: pointer;
+    }
+    ul li {
+      list-style-type: none;
+      margin-left: 15px;
+      font-weight: 300;
+      cursor: pointer;
+    }
+    ul li a {
+      text-decoration: none;
+    }
+    ul li a:hover {
+      border-bottom: 1px solid black;
+      padding-bottom: 5px;
+    }
+  }
+}
